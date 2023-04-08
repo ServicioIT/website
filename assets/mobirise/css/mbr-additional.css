@@ -1035,7 +1035,7 @@ a {
   }
 }
 .cid-tw6y4Jqq4S .iconfont-wrapper {
-  color: #ffffff !important;
+  color: #dfcefd !important;
   font-size: 1.5rem;
   padding-right: 0.5rem;
 }
@@ -1076,7 +1076,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: fixed;
-  background: rgba(21, 13, 29, 0.5);
+  background: #150d1d;
 }
 .cid-tw6y4Jqq4S .navbar.opened {
   transition: all 0.3s;

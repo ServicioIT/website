@@ -1,7 +1,2 @@
-    $ cat .gitignore
-    # exclude everything except directory foo/bar
-    # /*
-    # !/foo
-    # /foo/*
-    # !/foo/bar
-    project.mobirise
+$ cat .gitignore
+project.mobirise
