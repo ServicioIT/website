@@ -58,14 +58,16 @@
     "sitemapSwitcherAuto": "on",
     "site_lang": "es",
     "favicon": false,
-    "mbrsiteDomain": "5omvvmrtqc",
+    "mbrsiteDomain": "mg9rckhfk4",
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": false,
     "publishChangesOnly": true,
     "uniqCompNum": 2,
     "versionPublish": "5.8.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-MF8X1RWEVC\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-MF8X1RWEVC');\n</script>",
+    "global_footer_custom": "<script type=\"text/javascript\" src=\"https://cdn.ywxi.net/js/1.js\" async></script>"
   },
   "pages": {
     "index.html": {
@@ -75,7 +77,8 @@
         "meta_descr": "Ofrecemos soluciones personalizadas para satisfacer las necesidades de IT de tu proyecto. Diseñamos, implementamos y gestionamos la arquitectura de tus plataformas digitales.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/screenshot%202023-04-07%20at%209.05.34%20pm-1900x700.png"
       },
       "components": [
         {
