@@ -1076,7 +1076,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: fixed;
-  background: #150d1d;
+  background: rgba(21, 13, 29, 0.7);
 }
 .cid-tw6y4Jqq4S .navbar.opened {
   transition: all 0.3s;
